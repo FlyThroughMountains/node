@@ -1,0 +1,1 @@
+  1.setting中安装node的提示：File | Settings | Languages & Frameworks | JavaScript | Libraries
